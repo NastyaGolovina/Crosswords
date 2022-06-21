@@ -80,6 +80,7 @@ input {
     font-size: 20px;
     text-align: left;
     margin-left: 20px;
+    cursor: pointer;
 }
 .question {
     color: black;
